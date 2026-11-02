@@ -27,7 +27,7 @@ This prototype uses an Arduino Uno connected to four push buttons: blue, purple,
   <img
     src="documentation\MoodBoard_Luiza_M.png"
     alt="schematic view" 
-    height="360" 
+    height="460" 
     width="640" />
 </picture>
 
@@ -38,7 +38,7 @@ This prototype uses an Arduino Uno connected to four push buttons: blue, purple,
         src="documentation\Figma.png" 
         alt="schematic view" 
         height="460" 
-        width="2000" 
+        width="2500" 
     />
 </picture>
 
