@@ -55,4 +55,4 @@ Here is a preview of the assignment.
 
 ## Video
 
-[See the video on youtube↗](https://youtu.be/7-YfWs-cX3M)
+[See the video on youtube↗](https://youtu.be/2jLyMvr03H0)
