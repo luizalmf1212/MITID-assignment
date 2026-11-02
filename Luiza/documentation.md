@@ -46,7 +46,7 @@ This prototype uses an Arduino Uno connected to four push buttons: blue, purple,
 
 ## Web part
 Here is a preview of the assignment. 
-(documentation\preview.png)
+
 [HTML↗](index.html)
 
 [Script↗](script.js)
