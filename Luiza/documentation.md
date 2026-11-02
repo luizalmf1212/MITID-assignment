@@ -38,7 +38,7 @@ This prototype uses an Arduino Uno connected to four push buttons: blue, purple,
         src="documentation\Figma.png" 
         alt="schematic view" 
         height="460" 
-        width="2500" 
+        width="3000" 
     />
 </picture>
 
